@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">Artificial Intelligence Enthusiast</h3>
 
